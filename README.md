@@ -4,24 +4,26 @@
   
 <h3 align="center">👋 Hello, fellow developers! I'm Rachana Zumakzod, a recent Post graduate 👨‍💻with a passion for coding and a hunger to learn.</h3>
 
-- 🌱 I’m currently learning **Full Stack Java Developement Course**
+### 🌱 currently learning 
+-    🎓 🌐 Full Stack Java Developement Course
   
-- **💻Tech Stack:
+- ** 💻Tech Stack:
    - 🚀 Languages: HTML, CSS,🌐 Java,💻 JDBC, Hibernate, Spring Boot, 🚀 MySQL 🛢️.
-   - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.![image](https://github.com/rachana97-dot/rachana97-dot/assets/62335644/7a1da5eb-1914-4271-9327-47ecfc0b834a)
-
+   - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.
    - 🔭 Currently exploring: Git , GitHub, JavaScript. 
 **  
 
 - 🌱👩‍🏫 Eager to contribute to open source projects and collaborate with fellow developers. I believe in the power of community and continuous learning.
 
+### 🤝 📫 Let's Connect
+- 📧 Email: zumakzodrachana@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rachanazumakzod/
+- 🐦 GitHub: https://github.com/rachana97-dot
 - 👨‍💻 All of my projects are available at [https://github.com/rachana97-dot](https://github.com/rachana97-dot)
 
 - 💬 Ask me about **Java,SpringBoot,Hibernate,Sql**
 
-- 📫 How to reach me **zumakzodrachana@gmail.com**
 
-- ⚡ My Linkdin Id **https://www.linkedin.com/in/rachanazumakzod/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
