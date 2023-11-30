@@ -4,9 +4,14 @@
   
 <h3 align="center">👋 Hello, fellow developers! I'm Rachana Zumakzod, a recent Post graduate 👨‍💻with a passion for coding and a hunger to learn.</h3>
 
-- 🔭 I’m currently working on **Git And Java**
-
 - 🌱 I’m currently learning **Full Stack Java Developement Course**
+  
+- **💻Tech Stack:
+   - 🚀 Languages: HTML, CSS, Java, JDBC, Hibernate, Spring Boot, MySQL.
+   - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.
+   - 🔭 Currently exploring: Git , GitHub, JavaScript. 
+**  
+  🌱 Eager to contribute to open source projects and collaborate with fellow developers. I believe in the power of community and continuous learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachana97-dot](https://github.com/rachana97-dot)
 
