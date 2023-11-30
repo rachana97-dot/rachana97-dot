@@ -11,7 +11,8 @@
    - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.
    - 🔭 Currently exploring: Git , GitHub, JavaScript. 
 **  
-  🌱 Eager to contribute to open source projects and collaborate with fellow developers. I believe in the power of community and continuous learning.
+
+   🌱 Eager to contribute to open source projects and collaborate with fellow developers. I believe in the power of community and continuous learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachana97-dot](https://github.com/rachana97-dot)
 
