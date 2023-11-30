@@ -7,7 +7,7 @@
 ### 🌱 currently learning 
 -    🎓 🌐 Full Stack Java Developement Course
   
-### -💻Tech Stack:
+###  💻Tech Stack:
    - 🚀 Languages: HTML, CSS,🌐 Java,💻 JDBC, Hibernate, Spring Boot, 🚀 MySQL 🛢️.
    - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.
    - 🔭 Currently exploring: Git , GitHub, JavaScript. 
