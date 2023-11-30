@@ -1,4 +1,7 @@
-https://camo.githubusercontent.com/d10aa9a57189861513e70e9d07fc033c145f2006abc34f2933af0edc23925691/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44344431364151465f3857484e696f6d7066512f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3335305f313430302f302f313639383333313732383937333f653d3137303637343536303026763d6265746126743d42325f42796959416334536c72507851686b6734476e5a65323352376472496e4f784374376c4a384b5634
+<div align="center">
+<img src="https://media.licdn.com/dms/image/D4D16AQF_8WHNiompfQ/profile-displaybackgroundimage-shrink_350_1400/0/1698331728973?e=1706745600&v=beta&t=B2_ByiYAc4SlrPxQhkg4GnZe23R7drInOxCt7lJ8KV4" align="center" style="width: 100%" />
+</div>  
+  
 <h1>Hello 👋, I'm Rachana Zumakzod</h1>
 <h3 align="center">I'm Rachana Zumakzod from Amravati, currently living in Pune, I completed my master's degree in Computer Application from Sant Gadage Baba Amravati University, Amravati.I have knowledge
  about Java, JDBC, Hibernate, SpringBoot And SQL.</h3>
