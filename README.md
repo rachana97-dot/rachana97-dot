@@ -3,8 +3,7 @@
 </div>  
   
 <h1>Hello 👋, I'm Rachana Zumakzod</h1>
-<h3 align="center">I'm Rachana Zumakzod from Amravati, currently living in Pune, I completed my master's degree in Computer Application from Sant Gadage Baba Amravati University, Amravati.I have knowledge
- about Java, JDBC, Hibernate, SpringBoot And SQL.</h3>
+<h3 align="center">👋 Hello, fellow developers! I'm Rachana Zumakzod, a recent Post graduate 👨‍💻with a passion for coding and a hunger to learn.</h3>
 
 - 🔭 I’m currently working on **Git And Java**
 
