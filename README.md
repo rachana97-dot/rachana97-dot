@@ -7,12 +7,13 @@
 - 🌱 I’m currently learning **Full Stack Java Developement Course**
   
 - **💻Tech Stack:
-   - 🚀 Languages: HTML, CSS, Java, JDBC, Hibernate, Spring Boot, MySQL.
-   - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.
+   - 🚀 Languages: HTML, CSS,🌐 Java,💻 JDBC, Hibernate, Spring Boot, 🚀 MySQL 🛢️.
+   - 🔧 Tools: Git, Eclipse, IntelliJ IDE ,VS Code.![image](https://github.com/rachana97-dot/rachana97-dot/assets/62335644/7a1da5eb-1914-4271-9327-47ecfc0b834a)
+
    - 🔭 Currently exploring: Git , GitHub, JavaScript. 
 **  
 
-   🌱 Eager to contribute to open source projects and collaborate with fellow developers. I believe in the power of community and continuous learning.
+- 🌱👩‍🏫 Eager to contribute to open source projects and collaborate with fellow developers. I believe in the power of community and continuous learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachana97-dot](https://github.com/rachana97-dot)
 
