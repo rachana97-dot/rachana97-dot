@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Rachana Zumakzod</h1>
+<h1>Hello 👋, I'm Rachana Zumakzod</h1>
 <h3 align="center">I'm Rachana Zumakzod from Amravati, currently living in Pune, I completed my master's degree in Computer Application from Sant Gadage Baba Amravati University, Amravati.I have Knowlegde about Java, JDBC, Hibernate, SpringBoot,And Sql.</h3>
 
 - 🔭 I’m currently working on **Git And Java**
