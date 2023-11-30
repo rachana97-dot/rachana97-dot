@@ -2,7 +2,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQF_8WHNiompfQ/profile-displaybackgroundimage-shrink_350_1400/0/1698331728973?e=1706745600&v=beta&t=B2_ByiYAc4SlrPxQhkg4GnZe23R7drInOxCt7lJ8KV4" align="center" style="width: 100%" />
 </div>  
   
-<h1>Hello 👋, I'm Rachana Zumakzod</h1>
 <h3 align="center">👋 Hello, fellow developers! I'm Rachana Zumakzod, a recent Post graduate 👨‍💻with a passion for coding and a hunger to learn.</h3>
 
 - 🔭 I’m currently working on **Git And Java**
