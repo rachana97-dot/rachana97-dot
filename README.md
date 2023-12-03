@@ -23,6 +23,8 @@
 ### 🚀 Fun Facts✌️
 - 🏸 I play badmintan in my free time.
 - 📚 Love reading Books and explore worlds within words.
+- ![Uploading image.png…]()
+
 
 
 🙌Thanks for visiting! Feel free to explore my repositories and let's collaborate on some exciting projects. 👩‍💻🚀
